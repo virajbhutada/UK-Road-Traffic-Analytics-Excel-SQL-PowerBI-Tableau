@@ -6,6 +6,13 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 ---
 
+### Data
+
+The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
+
+[![Datasets](https://img.shields.io/badge/Datasets-Download-green)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
+
+---
 ### Problem Statement
 
 The United Kingdom faces persistent challenges related to road safety, with road accidents resulting in casualties and significant economic and social costs. To address this issue and make informed decisions, there is a need for a comprehensive Road Accident Dashboard that provides insights into accident data.
@@ -18,8 +25,10 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 - **Power BI Dashboard:** Constructed a dynamic and interactive dashboard emphasizing data integration and visually appealing visualizations.
 - **Tableau Dashboard:** Created a dashboard in Tableau with custom charts and insightful trend analyses.
-- **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
 - **SQL:** Utilized SQL queries for data processing and analysis, including data aggregation, filtering, and joining to extract key metrics.
+- **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
+  
+  [![Excel Dashboard](https://img.shields.io/badge/Excel%20Dashboard-Download-blue)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
 
 #### Key Performance Indicators (KPIs):
 
@@ -55,15 +64,16 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ---
   
-## Get Started
+### Get Started
 
 [![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau.git) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/pulls) [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/issues) [![Push Changes](https://img.shields.io/badge/Push-Changes-yellow)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau.git)
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+For any inquiries or collaboration opportunities, please feel free to reach out via LinkedIn. Your feedback and suggestions are highly appreciated.
 
 ---
 
@@ -72,6 +82,3 @@ The United Kingdom faces persistent challenges related to road safety, with road
 - **Excel Dashboard:** [Drive Link](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
 - **Datasets:** [Drive Link](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
-For any inquiries or collaboration opportunities, please feel free to reach out via LinkedIn. Your feedback and suggestions are highly appreciated.
-
----
