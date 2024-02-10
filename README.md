@@ -6,11 +6,9 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 ---
 
-### Data
+**Data:** The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
 
-The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
-
-[![Datasets](https://img.shields.io/badge/Datasets-Download-green)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
+[![Datasets](https://img.shields.io/badge/Datasets-Download-gold)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
 ---
 ### Problem Statement
@@ -28,8 +26,8 @@ The United Kingdom faces persistent challenges related to road safety, with road
 - **SQL:** Utilized SQL queries for data processing and analysis, including data aggregation, filtering, and joining to extract key metrics.
 - **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
   
-  [![Excel Dashboard](https://img.shields.io/badge/Excel%20Dashboard-Download-blue)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
-
+  [![Excel Dashboard](https://img.shields.io/badge/Excel%20Dashboard-Download-darkgreen)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
+  
 #### Key Performance Indicators (KPIs):
 
 - Identified and calculated primary KPIs, including Total Casualties and Total Accidents, for 2021 and 2022. YoY growth percentages were computed to assess trends and improvements.
@@ -54,7 +52,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ### Project Phases
 
-| Tool      | Description                               | Screenshot/Visualization                            |
+| Tool      | Description                               | Visualization                            |
 |-----------|-------------------------------------------|-----------------------------------------------------|
 | **POWER BI**  | Dynamic and interactive dashboard         | ![Power BI Dashboard](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/assets/143819712/24f02c41-c759-4579-b021-f4fc9695ece4) |
 | **TABLEAU**   | Custom charts and insightful trend analyses | ![Tableau Dashboard](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/assets/143819712/12e31fd6-807a-4c81-932e-e97b7ad7937e) |
@@ -73,6 +71,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 ### Connect With Me
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+
 For any inquiries or collaboration opportunities, please feel free to reach out via LinkedIn. Your feedback and suggestions are highly appreciated.
 
 ---
@@ -82,3 +81,4 @@ For any inquiries or collaboration opportunities, please feel free to reach out 
 - **Excel Dashboard:** [Drive Link](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
 - **Datasets:** [Drive Link](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
+---
