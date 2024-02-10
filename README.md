@@ -6,7 +6,7 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 ---
 
-### **Data:** The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
+###  The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
 
 [![**Datasets**](https://img.shields.io/badge/Datasets-Download-gold)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
