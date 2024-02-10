@@ -73,7 +73,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 | **Tableau Performance Advantage**  | Tableau's ability to store data in compressed size and fire queries to high-profile data results in faster loading time and increased performance, making it a valuable tool for data analysis. |
 | **Insightful Visualization with Sparklines**  |  The visualization of monthly accident trends using sparklines provides valuable insights into the patterns and changes over time. |
 | **Importance of Data Cleaning**  |  Data cleaning is essential to ensure accuracy and consistency in the dataset, including checking for typos and missing values. |
-| **Discrepancies in Results Across Platforms**  |  The SQL query is used to find the current year casualties, and the results differ between Power BI, Tableau, and Excel dashboards due to the different filters and data sources used. |
+| **Discrepancies in Results Across Platforms**  |  The SQL queries are used to find the current year casualties, and the results differ between Power BI, Tableau, and Excel dashboards due to the different filters and data sources used. |
 
 ---
 
