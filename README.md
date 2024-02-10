@@ -51,7 +51,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ---
 
-### Project Phases
+## Project Phases
 
 | Tool      | Description                               | Visualization                            |
 |-----------|-------------------------------------------|-----------------------------------------------------|
@@ -63,13 +63,13 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ---
   
-### Get Started
+## Get Started
 
 [![Clone](https://img.shields.io/badge/Clone-Repository-darkgreen)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau.git) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/pulls) [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau/issues) [![Push Changes](https://img.shields.io/badge/Push-Changes-yellow)](https://github.com/virajbhutada/Traffic-Incident-Analytics-Excel-SQL-PowerBI-Tableau.git)
 
 ---
 
-### Connect With Me
+## Connect With Me
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
@@ -77,9 +77,10 @@ For any inquiries or collaboration opportunities, please feel free to reach out 
 
 ---
 
-### Additional Links
+## Additional Links
 
 - **Excel Dashboard:** [Drive Link](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
 - **Datasets:** [Drive Link](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
+---
 ---
