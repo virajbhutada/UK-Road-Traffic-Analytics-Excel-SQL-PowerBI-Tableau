@@ -75,6 +75,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 | **Importance of Data Cleaning**  |  Data cleaning is essential to ensure accuracy and consistency in the dataset, including checking for typos and missing values. |
 | **Discrepancies in Results Across Platforms**  |  The SQL query is used to find the current year casualties, and the results differ between Power BI, Tableau, and Excel dashboards due to the different filters and data sources used. |
 
+---
 
 ## Project Phases
 
