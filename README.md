@@ -69,7 +69,7 @@ The United Kingdom faces persistent challenges related to road safety, with road
 | **Stakeholder Understanding**  | Understanding the stakeholders and users of a dashboard is crucial for developing and designing an effective dashboard. |
 | **Time Intelligence in Power BI**  |  Creating a date table is crucial for time intelligence functions in Power BI, ensuring accurate year-to-date calculations and other time-related analyses. |
 | **Custom DAX Functions in Power BI**  |  Utilizing custom DAX functions in Power BI allows for more flexibility and control in calculating and displaying key performance indicators. |
-| **Positive Trend in Road Accidents**  | Fatal casualties have decreased by 33 percent, showing a positive trend in road accidents. |
+| **Positive Trend in Road Accidents**  | Fatal casualties have decreased by **33%**, showing a positive trend in road accidents. |
 | **Tableau Performance Advantage**  | Tableau's ability to store data in compressed size and fire queries to high-profile data results in faster loading time and increased performance, making it a valuable tool for data analysis. |
 | **Insightful Visualization with Sparklines**  |  The visualization of monthly accident trends using sparklines provides valuable insights into the patterns and changes over time. |
 | **Importance of Data Cleaning**  |  Data cleaning is essential to ensure accuracy and consistency in the dataset, including checking for typos and missing values. |
