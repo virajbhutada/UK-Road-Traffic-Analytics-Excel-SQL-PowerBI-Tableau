@@ -10,6 +10,12 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 [![**Datasets**](https://img.shields.io/badge/Datasets-Download-gold)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link">
+    <img src="https://img.shields.io/badge/Datasets-Download-gold" alt="Datasets">
+  </a>
+</p>
+
 ---
 
 ## Problem Statement
@@ -28,7 +34,14 @@ The United Kingdom faces persistent challenges related to road safety, with road
   - **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
   
   [![**Excel Dashboard**](https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
-  
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link">
+    <img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen" alt="Excel Dashboard">
+  </a>
+</p>
+
+
 - ### Key Performance Indicators (KPIs):
 
   - Identified and calculated primary KPIs, including Total Casualties and Total Accidents, for 2021 and 2022. YoY growth percentages were computed to assess trends and improvements.
