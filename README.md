@@ -20,34 +20,34 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ## Analysis
 
-### Dashboard Design and Visualization:
+- ### Dashboard Design and Visualization:
 
-- **Power BI Dashboard:** Constructed a dynamic and interactive dashboard emphasizing data integration and visually appealing visualizations.
-- **Tableau Dashboard:** Created a dashboard in Tableau with custom charts and insightful trend analyses.
-- **SQL:** Utilized SQL queries for data processing and analysis, including data aggregation, filtering, and joining to extract key metrics.
-- **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
+  - **Power BI Dashboard:** Constructed a dynamic and interactive dashboard emphasizing data integration and visually appealing visualizations.
+  - **Tableau Dashboard:** Created a dashboard in Tableau with custom charts and insightful trend analyses.
+  - **SQL:** Utilized SQL queries for data processing and analysis, including data aggregation, filtering, and joining to extract key metrics.
+  - **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
   
   [![**Excel Dashboard**](https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
   
-### Key Performance Indicators (KPIs):
+- ### Key Performance Indicators (KPIs):
 
-- Identified and calculated primary KPIs, including Total Casualties and Total Accidents, for 2021 and 2022. YoY growth percentages were computed to assess trends and improvements.
+  - Identified and calculated primary KPIs, including Total Casualties and Total Accidents, for 2021 and 2022. YoY growth percentages were computed to assess trends and improvements.
 
-### Accident Severity Analysis:
+- ### Accident Severity Analysis:
 
-- Analyzed accident severity by categorizing casualties into severity levels (Fatal, Serious, Minor) for both years. YoY growth percentages for each severity level were calculated.
+  - Analyzed accident severity by categorizing casualties into severity levels (Fatal, Serious, Minor) for both years. YoY growth percentages for each severity level were calculated.
 
-### Vehicle Type Analysis:
+- ### Vehicle Type Analysis:
 
-- Analyzed casualties based on vehicle types (Car, Truck, Motorcycle) for 2021 and 2022. YoY growth percentages were considered to identify trends.
+  - Analyzed casualties based on vehicle types (Car, Truck, Motorcycle) for 2021 and 2022. YoY growth percentages were considered to identify trends.
 
-### Geospatial Analysis:
+- ### Geospatial Analysis:
 
-- Conducted geospatial analysis to determine casualties and accidents by road type, location, and time of day for the UK in 2021 and 2022.
+  - Conducted geospatial analysis to determine casualties and accidents by road type, location, and time of day for the UK in 2021 and 2022.
 
-### Monthly Trends Comparison:
+- ### Monthly Trends Comparison:
 
-- Created a monthly trend analysis for a year-over-year comparison of casualties in 2021 and 2022.
+  - Created a monthly trend analysis for a year-over-year comparison of casualties in 2021 and 2022.
 
 ---
 
