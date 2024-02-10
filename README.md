@@ -8,7 +8,6 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 ###  **This project utilizes open-source Road Accident Data from the United Kingdom spanning the years 2011 to 2022.**
 
-[![**Datasets**](https://img.shields.io/badge/Datasets-Download-gold)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link">
@@ -33,7 +32,6 @@ The United Kingdom faces persistent challenges related to road safety, with road
   - **SQL:** Utilized SQL queries for data processing and analysis, including data aggregation, filtering, and joining to extract key metrics.
   - **Excel Dashboard:** Developed an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
   
-  [![**Excel Dashboard**](https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link">
