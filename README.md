@@ -1,25 +1,26 @@
-# Road Traffic Accidents Analysis Project 
+# Road Traffic Accidents Analysis 
 ---
-### Overview
+## Overview
 
 This project encompasses a comprehensive analysis of road traffic accident data in the United Kingdom for the years 2021 and 2022. Through the integration of Excel, SQL queries, Power BI visualizations, and Tableau dashboards, the aim is to provide actionable insights to enhance road safety and mitigate accidents.
 
 ---
 
-**Data:** The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
+### **Data:** The project utilizes open-source Road Accident Data in the United Kingdom for the years 2011 and 2022.
 
 [![**Datasets**](https://img.shields.io/badge/Datasets-Download-gold)](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
 
 ---
-### Problem Statement
+
+## Problem Statement
 
 The United Kingdom faces persistent challenges related to road safety, with road accidents resulting in casualties and significant economic and social costs. To address this issue and make informed decisions, there is a need for a comprehensive Road Accident Dashboard that provides insights into accident data.
 
 ---
 
-### Analysis
+## Analysis
 
-#### Dashboard Design and Visualization:
+### Dashboard Design and Visualization:
 
 - **Power BI Dashboard:** Constructed a dynamic and interactive dashboard emphasizing data integration and visually appealing visualizations.
 - **Tableau Dashboard:** Created a dashboard in Tableau with custom charts and insightful trend analyses.
@@ -28,23 +29,23 @@ The United Kingdom faces persistent challenges related to road safety, with road
   
   [![**Excel Dashboard**](https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen)](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
   
-#### Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 
 - Identified and calculated primary KPIs, including Total Casualties and Total Accidents, for 2021 and 2022. YoY growth percentages were computed to assess trends and improvements.
 
-#### Accident Severity Analysis:
+### Accident Severity Analysis:
 
 - Analyzed accident severity by categorizing casualties into severity levels (Fatal, Serious, Minor) for both years. YoY growth percentages for each severity level were calculated.
 
-#### Vehicle Type Analysis:
+### Vehicle Type Analysis:
 
 - Analyzed casualties based on vehicle types (Car, Truck, Motorcycle) for 2021 and 2022. YoY growth percentages were considered to identify trends.
 
-#### Geospatial Analysis:
+### Geospatial Analysis:
 
 - Conducted geospatial analysis to determine casualties and accidents by road type, location, and time of day for the UK in 2021 and 2022.
 
-#### Monthly Trends Comparison:
+### Monthly Trends Comparison:
 
 - Created a monthly trend analysis for a year-over-year comparison of casualties in 2021 and 2022.
 
