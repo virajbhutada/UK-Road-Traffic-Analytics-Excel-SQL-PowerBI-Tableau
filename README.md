@@ -8,6 +8,7 @@ This project encompasses a comprehensive analysis of road traffic accident data 
 
 ---
 
+
 ### **This project utilizes open-source Road Accident Data from the United Kingdom spanning the years 2019 to 2022.**
 
 
