@@ -1,5 +1,4 @@
 # UK Road Traffic Analysis (2019-2022)
-
 ---
 
 ## Project Overview
