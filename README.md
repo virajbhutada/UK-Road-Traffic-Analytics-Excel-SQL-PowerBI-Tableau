@@ -108,6 +108,6 @@ For any inquiries or collaboration opportunities, please feel free to reach out 
 ## Additional Links
 
 - **Excel Dashboard:** [Drive Link](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
-- **Datasets:** [Drive Link](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
+- **Project Datasets:** [Drive Link](https://drive.google.com/drive/folders/1XnHnq_dQJMik7He1-9_Ci1fX3-3WcP_l?usp=drive_link)
+- **Power BI Dashboard:** [Interactive Report](https://app.powerbi.com/links/arFdKlMN36?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare)
 
----
